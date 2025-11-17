@@ -65,8 +65,6 @@ namespace NSem3PT2Client
             Queue q3 = arr;
             Console.WriteLine();
             Console.WriteLine(q3);
-            q3[1] = 500;
-            Console.WriteLine(q3);
             Console.WriteLine(q == q3);
         }
     }
